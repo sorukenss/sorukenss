@@ -36,8 +36,8 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/isaac-david-pimienta-morales-3187bb238/"><img src="logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:isaacpimienta358@gmail.com"><img src="logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/isaacpimienta"><img src="logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/isaac.pimienta"><img src="logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/isaac-david-pimienta-morales-3187bb238/"><img src="https://img.shields.io/badge/style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:isaacpimienta358@gmail.com"><img src="https://img.shields.io/badge/style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/isaacpimienta"><img src="https://img.shields.io/badge/style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/isaac.pimienta"><img src="https://img.shields.io/badge/style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
