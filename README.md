@@ -35,9 +35,26 @@
   </ul>
 </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/isaac-david-pimienta-morales-3187bb238/"><img src="https://img.shields.io/badge/style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:isaacpimienta358@gmail.com"><img src="https://img.shields.io/badge/style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/isaacpimienta"><img src="https://img.shields.io/badge/style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/isaac.pimienta"><img src="https://img.shields.io/badge/style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/isaac-david-pimienta-morales-3187bb238/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.facebook.com/isaac.pimienta" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:isaacpimienta358@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/isaacpimienta" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
