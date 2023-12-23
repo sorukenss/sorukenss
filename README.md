@@ -37,7 +37,6 @@
 
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/isaac-david-pimienta-morales-3187bb238/" target="blank"><img align="center"
