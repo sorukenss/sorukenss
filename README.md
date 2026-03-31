@@ -1,7 +1,6 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-<!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Isaac Pimienta</h1>
   <p><b>Full Stack Developer | Mobile & Web Enthusiast | Passionate about Clean Code</b></p>
@@ -48,9 +47,7 @@
 
 ---
 ## 📊 GitHub Stats
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -67,18 +64,10 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sorukenss&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
-
-
 </p>        
-<!--- stats (end) -->
-
 ---
