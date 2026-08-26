@@ -51,10 +51,8 @@
 <tr border="none">
 <td width="50%" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorukenss&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorukenss&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorukenss&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorukenss&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorukenss&theme=solarized_dark&utcOffset=8">
 </td>
 
 <td width="50%" align="center">
