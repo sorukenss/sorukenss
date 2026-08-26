@@ -50,7 +50,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorukenss&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorukenss&theme=solarized_dark">
 </td>
 
