@@ -55,9 +55,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?user=sorukenss&theme=dark&show_icons=true&count_private=true" />
-   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sorukenss&theme=dark&hide_border=false" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorukenss&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorukenss&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorukenss&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorukenss&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorukenss&theme=solarized_dark&utcOffset=8">
 </td>
 
 <td width="50%" align="center">
